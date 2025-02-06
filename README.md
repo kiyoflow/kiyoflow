@@ -24,8 +24,4 @@ Hey there! I'm **Kiyoflow**, a middle school student passionate about programmin
 
 ---
 
-## 📫 Connect with Me  
-🌐 [My Website (Coming Soon)](#)  
-📧 [Email Me](mailto:kiyoflow.me@example.com)  
-
 Feel free to explore my repositories and join me on this coding journey! 🚀
