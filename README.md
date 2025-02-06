@@ -1,8 +1,31 @@
-# Kiyoflow
-## "Work so hard that you won't have to introduce yourself."
+# 👋 Welcome to My GitHub!  
+### 🚀 Kiyoflow | Aspiring Programmer  
 
-**Currently an aspiring middle school programmer, learning frontend development and python.**
+*"Work so hard that you won't have to introduce yourself."*  
 
+---
 
+## 🌟 About Me  
+Hey there! I'm **Kiyoflow**, a middle school student passionate about programming. I'm currently diving deep into **Frontend Development** and **Python**, constantly learning and improving my skills. Most of my projects are collaborations with my friend **[Racerapple](#)**, so be sure to check out his profile too!  
 
-Hi, I'm kiyoflow. I'm currently a middle schooler and aspiring middle school programmer, learning frontend development and python. Most of my projects will be in collaboration with a friend of mine. Racerapple, you can check out his profile as well. 
+---
+
+## 🛠 Tech Stack  
+🚀 **Languages:** Python | JavaScript 
+🎨 **Frontend:** HTML | CSS
+📂 **Version Control:** GitHub  
+
+---
+
+## 🔥 Current Goals  
+✔ Master frontend development  
+✔ Build engaging and interactive projects  
+✔ Collaborate on exciting coding challenges  
+
+---
+
+## 📫 Connect with Me  
+🌐 [My Website (Coming Soon)](#)  
+📧 [Email Me](mailto:your-email@example.com)  
+
+Feel free to explore my repositories and join me on this coding journey! 🚀
