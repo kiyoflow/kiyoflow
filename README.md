@@ -6,7 +6,8 @@
 ---
 
 ## 🌟 About Me  
-Hey there! I'm **Kiyoflow**, a middle school student passionate about programming. I'm currently diving deep into **Frontend Development** and **Python**, constantly learning and improving my skills. Most of my projects are collaborations with my friend **[Racerapple](https://github.com/RacerApple)**, so be sure to check out his profile too! 
+Hey there! I'm **Kiyoflow**, a middle school student passionate about programming. I'm currently diving deep into **Frontend Development** and **Python**, constantly learning and improving my skills. Most of my projects are collaborations with my friend **[Racerapple](https://github.com/RacerApple)**, so be sure to check out his profile too!
+### Disclaimer: Most of my code is developed for laptops, so if the proportions seem a bit different on your monitor or mobile device, that's probably why.
 
 
 ---
