@@ -1,12 +1,11 @@
 # 👋 Welcome to My GitHub!  
-### 🚀 Kiyoflow | Aspiring Programmer  
 
-*"Work so hard that you won't have to introduce yourself."*  
+*"I don't know if you get to live twice, but if you live right the first time, once is enough."*  
 
 ---
 
 ## 🌟 About Me  
-Hey there! I'm **Kiyoflow**, a middle school student passionate about programming. I'm currently diving deep into **Frontend Development** and **Python**, constantly learning and improving my skills. 
+Hey there! I'm **Kiyoflow**, a middle school student passionate about programming. I'm currently diving deep into *ReactJS* and *GSAP*, constantly learning and improving my skills. 
 
 
 ---
